@@ -1,0 +1,2 @@
+# NqcoMC
+Minecraft server
